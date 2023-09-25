@@ -1,5 +1,5 @@
 # Chat_app
-After download or clone run npm install to install all the dependancies.
+After download or clone run npm install to install all the dependencies.
 
 
 
